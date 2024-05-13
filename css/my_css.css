@@ -1,0 +1,38 @@
+
+#contact_form input {
+    color: #333;
+}
+
+.mine img {
+    height: 45vh;
+}
+
+.mygal img {
+    height: 30vh;
+}
+
+.div_0 img {
+    height: 45vh;
+}
+
+.div_1 img {
+    height: 66vh;
+}
+
+.div_2 img {
+    height: 40vh;
+}
+
+#fm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 3%;
+    padding: 2%;
+    background-color: red;
+}
+
+
+
+
